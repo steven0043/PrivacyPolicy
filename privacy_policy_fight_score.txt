@@ -9,7 +9,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to unique advertising identifier and login email. The information that I request will be retained on your device and is not collected by me in any way.
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to unique advertising identifier and a user identifier. The user identifier is a non personal, random string that will be retained on your device and also stored remotely on https://parseapi.back4app.com along with your boxing scorecards. This is so that the scorecards can be connected to particular users so that they can retrieve them throughout different app sessions and on different devices.
 
 The app does use third party services that may collect information used to identify you.
 
